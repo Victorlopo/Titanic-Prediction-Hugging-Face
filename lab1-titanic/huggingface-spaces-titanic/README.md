@@ -1,5 +1,5 @@
 ---
-title: Iris
+title: Titanic
 emoji: 🐢
 colorFrom: purple
 colorTo: green
