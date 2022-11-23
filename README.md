@@ -1,10 +1,5 @@
 # ScalableMachineLearningLab1
 
-After activating the conda environment the following commands should be executed:
-
--  SET CONDA_DLL_SEARCH_MODIFICATION_ENABLE=1
-
--  set HOPSWORKS_API_KEY=("your_api_key")
 
 Order of the execution files:
 
@@ -16,14 +11,18 @@ Order of the execution files:
 To set up the hugging face UI the following commands should be executed:
 
 1) Interactive UI for entering feature values and predicting if a passenger would survive the titanic or not
+    1.1) Online Link: https://huggingface.co/spaces/Victorlopo21/Titanic1
     
-    - cd huggingface-spaces-titanic
-    - python app.py
+    1.2) Console commands
+        - cd huggingface-spaces-titanic
+        - python app.py
 
 2) Dashboard UI showing a prediction of survival for the most recent
 passenger added to the Feature Store and the outcome (label) if that
 passenger survived or not. Include a confusion matrix to show historical
 model performance.
-
-    - cd huggingface-spaces-titanic-monitor
-    - python app.py
+    1.1) Online Link: https://huggingface.co/spaces/Victorlopo21/Titanic2
+    
+    1.2) Console commands
+        - cd huggingface-spaces-titanic-monitor
+        - python app.py
