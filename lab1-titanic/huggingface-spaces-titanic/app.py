@@ -50,5 +50,5 @@ demo_titanic = gr.Interface(
     outputs=gr.Image(type="pil"))
 
 #outputs=gr.Label(num_top_classes=2)
-demo_titanic.launch(share=True)
+demo_titanic.launch()
 
