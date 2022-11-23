@@ -11,6 +11,7 @@ Order of the execution files:
 To set up the hugging face UI the following commands should be executed:
 
 1) Interactive UI for entering feature values and predicting if a passenger would survive the titanic or not
+
     1.1) Online Link: https://huggingface.co/spaces/Victorlopo21/Titanic1
     
     1.2) Console commands
@@ -21,6 +22,7 @@ To set up the hugging face UI the following commands should be executed:
 passenger added to the Feature Store and the outcome (label) if that
 passenger survived or not. Include a confusion matrix to show historical
 model performance.
+
     1.1) Online Link: https://huggingface.co/spaces/Victorlopo21/Titanic2
     
     1.2) Console commands
