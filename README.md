@@ -15,6 +15,7 @@ To set up the hugging face UI the following commands should be executed:
     1.1) Online Link: https://huggingface.co/spaces/Victorlopo21/Titanic1
     
     1.2) Console commands
+    
         - cd huggingface-spaces-titanic
         
         - python app.py
@@ -27,6 +28,7 @@ model performance.
     1.1) Online Link: https://huggingface.co/spaces/Victorlopo21/Titanic2
     
     1.2) Console commands
+   
         - cd huggingface-spaces-titanic-monitor
        
         - python app.py
