@@ -16,6 +16,7 @@ To set up the hugging face UI the following commands should be executed:
     
     1.2) Console commands
         - cd huggingface-spaces-titanic
+        
         - python app.py
 
 2) Dashboard UI showing a prediction of survival for the most recent
@@ -27,4 +28,5 @@ model performance.
     
     1.2) Console commands
         - cd huggingface-spaces-titanic-monitor
+       
         - python app.py
