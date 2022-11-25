@@ -1,5 +1,9 @@
 # ScalableMachineLearningLab1
 
+Víctor Lopo 
+
+Marvin Kërcini
+
 
 Order of the execution files:
 
