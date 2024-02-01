@@ -1,8 +1,4 @@
 # Toy-Titanic-Survival-Prediction-Hugging-Face
-Víctor Lopo 
-
-Marvin Kërcini
-
 
 Order of the execution files:
 
